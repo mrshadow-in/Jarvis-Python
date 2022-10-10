@@ -7,7 +7,7 @@ import os
 from datetime import datetime
 
 #takes the path
-path = 'students'
+path = 'users'
 images = []
 personNames = []
 #array to store the Files (img/jpg with file extension)
